@@ -1,3 +1,4 @@
+<img width="350" height="450" alt="tabakoshka-poster-290498652" src="https://github.com/user-attachments/assets/85cac98a-cf3d-4ff3-8cc9-32783d985ee8" />
 ## Hi there 👋
 
 <!--
